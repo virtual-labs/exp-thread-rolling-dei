@@ -2,38 +2,84 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "For what type of material does these threading techniques can be made possible:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ductile material",
+        "b": "Brittle material",
+        "c": "Harder material",
+        "d": "Tougher material"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Thread rolling requires plastic deformation, hence ductile materials are suitable.",
+        "b": "Brittle materials cannot undergo plastic flow.",
+        "c": "Hardness alone is not sufficient.",
+        "d": "Toughness is not the deciding factor."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "These techniques of threading cannot improve the following properties:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thread's yield strength",
+        "b": "Hardness",
+        "c": "Resilience",
+        "d": "Wear Resistance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Yield strength improves due to cold working.",
+        "b": "Hardness increases due to strain hardening.",
+        "c": "Resilience is not improved by thread rolling.",
+        "d": "Wear resistance improves due to better surface finish."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "c"
+    },
+    {
+      "question": "The flow of material in thread rolling process takes place in which direction:",
+      "answers": {
+        "a": "Longitudinally",
+        "b": "Laterally",
+        "c": "Radially",
+        "d": "Axially"
+      },
+      "explanations": {
+        "a": "Material does not flow along length.",
+        "b": "Lateral flow is not dominant.",
+        "c": "Material flows radially into thread shape.",
+        "d": "Axial flow does not dominate."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Through which process thread rolling cannot be done:",
+      "answers": {
+        "a": "using flat dies",
+        "b": "using punch and die",
+        "c": "using two rolls with guide",
+        "d": "using three rolls"
+      },
+      "explanations": {
+        "a": "Flat dies are commonly used.",
+        "b": "Punch and die is not a thread rolling method.",
+        "c": "Two rolls with guide is a valid method.",
+        "d": "Three roll systems are used."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "In which type of thread rolling technique, the two dies reciprocates:",
+      "answers": {
+        "a": "in two rolls with guide system",
+        "b": "in flat dies",
+        "c": "in three rolls system",
+        "d": "in planetary dies system"
+      },
+      "explanations": {
+        "a": "Rolls rotate, they do not reciprocate.",
+        "b": "Flat die systems use reciprocating dies.",
+        "c": "Three roll systems rotate.",
+        "d": "Planetary dies rotate."
+      },
+      "correctAnswer": "b"
     }
   ]
 }
