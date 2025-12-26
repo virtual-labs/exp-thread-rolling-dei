@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thread Rolling - Equivalent Strain - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Three Rolls</h3>
+                <ul class="nav-list">
+                    <li><a href="threerolls-graph.html" class="nav-link">Thread Rolling using 3-Rolls</a></li>
+                    <li><a href="threerolls-strain.html" class="nav-link active">Equivalent Strain</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <!-- Header with Logo -->
+        <div class="content-header">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="content-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Thread Rolling Process</p>
+            </div>
+        </div>
+        
+        <h1 class="section-title">Thread Rolling - Equivalent Strain</h1>
+        <div class="content-box">
+            <div class="video-container">
+                <video controls>
+                    <source src="ThreadRolling/ThreeRolls_Strain.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <br>
+            
+            <p>This simulation depicts the results coming from Finite Element Analysis of the thread rolling technique, using two rolls. In this video, we could see that on the upper section of the screen, we have the equilateral strain generated regions, which are coming from the thread rolling simulation at various point in time. 
+Note that at the point where the roll first comes in contact with the billet we have the maximum strain generated, that could be seen in red colour, which slowly fades into yellow, then into green and finally into blue colour as shown in the legend on left side of this simulation. 
+The lower section of the screen showing the varying pressure zones coming during this process. The green colour showing the low pressure regions, the yellow colour showing slightly high pressure regions, and red colour showing very high pressure regions, in increasing order of magnitude, which can be as high as up-to 500 MPa of pressure.</p>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
