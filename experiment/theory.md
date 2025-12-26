@@ -64,14 +64,14 @@ upper die reciprocates. The blank is placed on one end of the stationary die, an
 moving die slides, the blank rolls between the dies, forming threads. The finished blank
 rolls off the stationary die before the moving die completes its stroke.
 </p>
-
+<img src="images/FlatDieThreadRolling.jpg" alt="Thread Rolling using Flat Dies" width="425" height="300">
 <h2>Two-Die Cylindrical</h2>
 
 <p>
 The two-die cylindrical process uses two rotating dies and is suitable for producing threads
 up to 6 inches (150 mm) in diameter and 20 inches (510 mm) in length.
 </p>
-
+<img src="images/TwoRolls.jpg" alt="Thread Rolling using Two Rolls" width="350" height="250">
 <h2>Three-Die Cylindrical</h2>
 
 <p>
@@ -88,7 +88,7 @@ screw machines.
 (ii) The second type uses a self-opening die head. This method is more common but cannot
 form the last 1.5 to 2 threads near shoulders.
 </p>
-
+<img src="images/ThreeRolls.jpg" alt="Thread Rolling using Three Rolls" width="320" height="300">
 <h2>Planetary Dies</h2>
 
 <p>
