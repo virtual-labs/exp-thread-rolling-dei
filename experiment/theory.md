@@ -64,6 +64,7 @@ upper die reciprocates. The blank is placed on one end of the stationary die, an
 moving die slides, the blank rolls between the dies, forming threads. The finished blank
 rolls off the stationary die before the moving die completes its stroke.
 </p>
+
 <img src="images/FlatDieThreadRolling.jpg" alt="Thread Rolling using Flat Dies" width="425" height="300">
 <h2>Two-Die Cylindrical</h2>
 
