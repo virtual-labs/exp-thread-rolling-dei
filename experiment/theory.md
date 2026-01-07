@@ -65,9 +65,11 @@ moving die slides, the blank rolls between the dies, forming threads. The finish
 rolls off the stationary die before the moving die completes its stroke.
 </p>
 
-<img src="images/FlatDieThreadRolling.jpg" alt="Thread Rolling using Flat Dies" width="425" height="300">
-<h3>Two-Die Cylindrical</h3>
 
+<center>
+<img src="images/FlatDieThreadRolling.jpg" alt="Thread Rolling using Flat Dies" width="425" height="300"><br>
+
+</center>
 <p>
 The two-die cylindrical process uses two rotating dies and is suitable for producing threads
 up to 6 inches (150 mm) in diameter and 20 inches (510 mm) in length.
