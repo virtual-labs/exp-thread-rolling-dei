@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>Thread Rolling</h1>
+### Theory
 
 <p>
 Thread rolling is used to produce threads in substantial quantities. This is a cold-forming
@@ -43,7 +43,7 @@ values as tight as ±0.0006 in (±0.015 mm) achievable. Surface finishes range f
 micro-inches.
 </p>
 
-<h2>Types of Thread Rolling</h2>
+<h3>Types of Thread Rolling</h3>
 
 <p>
 There are four main types of thread rolling processes based on die configuration:
@@ -56,7 +56,7 @@ There are four main types of thread rolling processes based on die configuration
     <li>Planetary dies</li>
 </ol>
 
-<h2>Flat Dies</h2>
+<h3>Flat Dies</h3>
 
 <p>
 The flat die system consists of two flat dies. The lower die remains stationary while the
@@ -66,14 +66,14 @@ rolls off the stationary die before the moving die completes its stroke.
 </p>
 
 <img src="images/FlatDieThreadRolling.jpg" alt="Thread Rolling using Flat Dies" width="425" height="300">
-<h2>Two-Die Cylindrical</h2>
+<h3>Two-Die Cylindrical</h3>
 
 <p>
 The two-die cylindrical process uses two rotating dies and is suitable for producing threads
 up to 6 inches (150 mm) in diameter and 20 inches (510 mm) in length.
 </p>
 <img src="images/TwoRolls.jpg" alt="Thread Rolling using Two Rolls" width="350" height="250">
-<h2>Three-Die Cylindrical</h2>
+<h3>Three-Die Cylindrical</h3>
 
 <p>
 There are two types of three-die cylindrical thread rolling processes:
@@ -90,7 +90,7 @@ screw machines.
 form the last 1.5 to 2 threads near shoulders.
 </p>
 <img src="images/ThreeRolls.jpg" alt="Thread Rolling using Three Rolls" width="320" height="300">
-<h2>Planetary Dies</h2>
+<h3>Planetary Dies</h3>
 
 <p>
 Planetary dies are used for mass production of threads up to 1 inch (25 mm) in diameter.
