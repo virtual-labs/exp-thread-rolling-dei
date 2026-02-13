@@ -2,38 +2,78 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In which type of thread rolling operation, the billet rotates as well as revolves also:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "in two rolls with guide system",
+        "b": "in flat dies system",
+        "c": "in three rolls system",
+        "d": "in planetary dies system"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Billet rotates but does not revolve.",
+        "b": "Flat dies cause rolling only.",
+        "c": "Three roll systems cause rotation only.",
+        "d": "Planetary dies cause both rotation and revolution."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The following is not an advantage of thread rolling process over thread cutting process:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "quality of cold rolled products are good",
+        "b": "chipless operations being cleaner",
+        "c": "lesser material wastage",
+        "d": "always cheaper in cost"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Thread rolling produces high quality threads.",
+        "b": "Thread rolling is chipless.",
+        "c": "Material wastage is less.",
+        "d": "Thread rolling is not always cheaper."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+    {
+      "question": "When considering the blank diameter tolerance, a change in blank diameter will affect the major diameter by an approximate ratio of 5 to 1:",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Can't say"
+      },
+      "explanations": {
+        "a": "The correct ratio is approximately 3:1.",
+        "b": "Hence the statement is false.",
+        "c": "The ratio is known."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Production rates of thread rolling processes are usually three to five times faster than thread cutting:",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Can't say"
+      },
+      "explanations": {
+        "a": "Thread rolling is significantly faster than cutting.",
+        "b": "Incorrect.",
+        "c": "Production rates are well established."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "A rolled thread can often be easily recognized because the thread has a smaller diameter than the blank rod from which it has been made:",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Can't say"
+      },
+      "explanations": {
+        "a": "Rolled threads have larger diameter than the blank.",
+        "b": "Hence the statement is false.",
+        "c": "The answer is definite."
+      },
+      "correctAnswer": "b"
     }
   ]
 }
